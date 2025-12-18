@@ -1,0 +1,127 @@
+{
+  "total": 20,
+  "correct": 1,
+  "accuracy": 5.0,
+  "results": [
+    {
+      "index": 1,
+      "ground_truth": "kokoro",
+      "prediction": "KOKORO",
+      "correct": false
+    },
+    {
+      "index": 2,
+      "ground_truth": "SHAKE SHACK",
+      "prediction": "shake shack",
+      "correct": false
+    },
+    {
+      "index": 3,
+      "ground_truth": "마왕족발",
+      "prediction": "마왕 족발",
+      "correct": false
+    },
+    {
+      "index": 4,
+      "ground_truth": "원마트 (ONE MART)",
+      "prediction": "ONE MART",
+      "correct": false
+    },
+    {
+      "index": 5,
+      "ground_truth": "돈통마늘보쌈",
+      "prediction": "DBAS\nDigital Balloon Animation Studio\n마늘보쌈",
+      "correct": false
+    },
+    {
+      "index": 6,
+      "ground_truth": "황진하치과",
+      "prediction": "한진하 치과 의원 Tel. 305-0010",
+      "correct": false
+    },
+    {
+      "index": 7,
+      "ground_truth": "jk seven",
+      "prediction": "J.K\nSEVEN\nKOREA\n\nSince 1989",
+      "correct": false
+    },
+    {
+      "index": 8,
+      "ground_truth": "독스피씨방 (Doxx PC)",
+      "prediction": "게임 프레미엄 PC 랜드",
+      "correct": false
+    },
+    {
+      "index": 9,
+      "ground_truth": "명륜진사갈비",
+      "prediction": "The text on the sign in the image is in Korean and reads:\n\n\"숙불감바무한리필\"",
+      "correct": false
+    },
+    {
+      "index": 10,
+      "ground_truth": "정수학원",
+      "prediction": "정수학원",
+      "correct": true
+    },
+    {
+      "index": 11,
+      "ground_truth": "혼네",
+      "prediction": "The text on the sign in the image is:\n\n\"술꽃을 좋아하는 너에게 술꽃이 피다\"\n\nThis translates to:\n\n\"Love for flowers, you, I will bloom for you\"",
+      "correct": false
+    },
+    {
+      "index": 12,
+      "ground_truth": "종로프라자 약국",
+      "prediction": "ONGRO PLAZA PHARMACY JONGRO PLAZA PHARMACY 종로프라자 약국",
+      "correct": false
+    },
+    {
+      "index": 13,
+      "ground_truth": "디자인 마당발",
+      "prediction": "디자인 마당반 INTERIORDESIGN",
+      "correct": false
+    },
+    {
+      "index": 14,
+      "ground_truth": "뉴트리코어",
+      "prediction": "2층 83m² (25평)\n임대\n학원 및 다용도\n742-0070 (수성구 범어동 배건일)\n동일부동산",
+      "correct": false
+    },
+    {
+      "index": 15,
+      "ground_truth": "그녀의필라테스",
+      "prediction": "그녀의 필라테스",
+      "correct": false
+    },
+    {
+      "index": 16,
+      "ground_truth": "봉구스밥버거",
+      "prediction": "\"Baburger\"",
+      "correct": false
+    },
+    {
+      "index": 17,
+      "ground_truth": "성모성형외과",
+      "prediction": "죄송합니다, 이 이미지에 텍스트를 읽을 수 없습니다.",
+      "correct": false
+    },
+    {
+      "index": 18,
+      "ground_truth": "ortholite",
+      "prediction": "Ortholite",
+      "correct": false
+    },
+    {
+      "index": 19,
+      "ground_truth": "시골밥상",
+      "prediction": "이 간판은 \"기독 밥상\"이라는 제목을 가지고 있습니다.",
+      "correct": false
+    },
+    {
+      "index": 20,
+      "ground_truth": "정관장",
+      "prediction": "정관장\n红参\n6년\nKOREAN RED GINSENG",
+      "correct": false
+    }
+  ]
+}

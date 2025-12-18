@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Model files (too large for GitHub)
+*.safetensors
+*.bin
+*.pth
+*.ckpt
+deepseek_ocr_model/
+qwen2vl_korean_signboard/
+qwen2vl_korean_signboard_v2/
+
+# Data files
+deepseek_ocr/Training/
+deepseek_ocr/Validation/
+deepseek_ocr/filtered_train/images/
+deepseek_ocr/filtered_val/images/
+
+# Logs
+*.log
+
+# Cache
+unsloth_compiled_cache/
+.cache/
+
+# Environment
+.env
+.venv
+env/
+venv/
